@@ -4,7 +4,7 @@ if 'constants':  # for code folding
 
     CHINESE_DIGIS = '零一二三四五六七八九'
     BIG_CHINESE_DIGIS_SIMPLIFIED = '零壹贰叁肆伍陆柒捌玖'
-    BIG_CHINESE_DIGIS_TRADITIONAL = '零壹貳參肆伍陸柒捌玖'
+    BIG_CHINESE_DIGIS_TRADITIONAL = '零壹貳叁肆伍陸柒捌玖'
     SMALLER_BIG_CHINESE_UNITS_SIMPLIFIED = '十百千万'
     SMALLER_BIG_CHINESE_UNITS_TRADITIONAL = '拾佰仟萬'
     LARGER_CHINESE_NUMERING_UNITS_SIMPLIFIED = '亿兆京垓秭穰沟涧正载'
